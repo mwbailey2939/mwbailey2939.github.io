@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/14333.png
+image: 
 title: 
 date: 
-published: 
+published: false
 labels:
 
 summary: 
