@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Morgan Bailey",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "mwbailey129@gmail.com",
+    "website": "https://mwbailey2939.github.io",
+    "summary": "I am studying for a B.S. in Biology with a concentration in ecology and environmental science at James Madison University. I expect to graduate in December, 2025.",
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mwbailey2939", "url": "http://github.com/mwbailey2939" },
+      { "network": "linkedin", "username": "Morgan Bailey", "url": "https://www.linkedin.com/in/morgan-bailey-775400337/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Ecology" },
+    { "name": "Conservation" },
+    { "name": "Ornithology" },
+    { "name": "Herpetology" },
+    { "name": "Photography" }
   ],
   "skills": [
     {
