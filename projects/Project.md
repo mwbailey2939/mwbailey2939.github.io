@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/14333.png
 title: 
 date: 
 published: 
